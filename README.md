@@ -77,3 +77,7 @@ Primary Font: *Circular, Medium (500), 16px*
 Headings: *Circular, Bold (700), 24px-32px*
 
 Secondary Text: *Circular, Book (400), 14px*
+
+**Importance of identifying design properties of a mock up design :**
+
+Identifying the design properties of a mockup is important because it helps ensure consistency, clarity, and accuracy when turning the design into a real product. It guides developers and designers on layout, colors, fonts, spacing, and interactions while making sure the final implementation matches the original vision.
