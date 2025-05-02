@@ -113,6 +113,7 @@ User navigation
 
 Responsive menu
 
+
 **2) Property Card :**
 
 Property image
@@ -123,6 +124,7 @@ Favorite button
 
 Responsive layout
 
+
 **3) Footer :**
 
 Site links
@@ -132,5 +134,6 @@ Company information
 Social media links
 
 Copyright information
+
 
 Each component will be designed for reusability and consistency across the application.
